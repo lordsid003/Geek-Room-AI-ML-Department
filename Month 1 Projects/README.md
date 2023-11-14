@@ -1,5 +1,7 @@
-## Welcome to 1st Month project, guys 👋
+## Welcome to 1st Month projects, guys 👋
 Let’s get you all get started with projects that cover a range of machine learning tasks and complexity levels, from basics. Start with a project that matches your interests and gradually work your way up to more challenging tasks as you gain experience. Feel free to ask your queries and more importantly, learn with us.
+
+* <b><i>Atleast 1 of the 2 projects to be completed and the corresponding jupyter file to be uploaded as a team</i></b>
 
 # PROJECTS 🎯
 The projects for this month include:
@@ -61,4 +63,5 @@ The projects for this month include:
 		</ul>
 	</li>
 </ol>
+
 
