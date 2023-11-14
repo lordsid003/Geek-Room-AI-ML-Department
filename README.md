@@ -68,7 +68,7 @@ git clone [HTTPS_Link]
 ```
 git branch
 ```
-* This should display "main". <b><i>Never edit fies directly in the main branch</i></b>
+* This should display "main". <b><i>Never edit files directly in the main branch</i></b>
 4. Create a new branch for editing and working upon by executing the following command:
 ```
 git checkout -b [branch_name]
@@ -85,7 +85,7 @@ git commit -m [descriptive_message_explaining_your_commited_files]
 ```
 git remote -v
 ```
-* <i>Shows streams of repository while working remotely. You should see the follwoing:</i><br>
+* <i>Shows streams of repository while working remotely. You should see the following:</i><br>
 <b>origin [HTTPS_Link]</b><br>
 8. Run the following commands to add stream to original repository [upstream]:
 ```
