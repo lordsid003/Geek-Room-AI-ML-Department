@@ -99,3 +99,16 @@ git pull upstream main
 ```
 git push
 ```
+10. Finally raise your Pull request with proper description and title:
+* <b>Example: </b><br>
+[Feature]: Worked upon "Housing price prediction" [Month 1 Projects] <br>
+<i>Description: </i> Completed Project 3: "Housing Price Prediction" of Month 1 Projects using Linear regression
+11. After your PR has been merged, run the following commands:
+```
+git switch main
+```
+* <i>Switches to main branch on your local machine</i>
+```
+git merge [branch_name]
+```
+You can then delete your branch and sync your repository with the original repository.
