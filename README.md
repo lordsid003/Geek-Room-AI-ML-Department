@@ -18,8 +18,8 @@ This repository is a collaborative space for our amazing team to work together o
 <div>
   <span>
      <img src="https://neuraspike.com/wp-content/uploads/2020/12/matplotlib-logo.png?raw=true" width="200" height="60">&emsp;
-     <img src="https://o.remove.bg/downloads/6ba38df3-3dac-4643-a41c-05de4a65b230/31-seaborn_upgrade_1-removebg-preview.png?raw=true" width="180">&emsp;
-    <img src="https://o.remove.bg/downloads/d8627f61-1da2-40f6-8d79-a556b4ecd52a/Logo_scikit_720x540-removebg-preview.png?raw=true" width="100">
+     <img src="https://www.programsbuzz.com/sites/default/files/logo/seaborn-logo.png?raw=true" width="120" height="120">&ensp;
+     <img src="https://github.com/lordsid003/Geek-Room-AI-ML-Department/assets/119743101/cbd0b58e-b7d1-46f0-8960-d64437a062a5?raw=true" width="250">
   </span>
 </div>
 
