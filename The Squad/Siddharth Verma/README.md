@@ -20,4 +20,4 @@ Head of Artificial Intelligence Department @GeekRoom
      <li>
          <i>Github: </i> https://github.com/lordsid003
      </li>
-   </ul>
+</ul>
