@@ -13,7 +13,12 @@
 <img src="https://github.com/lordsid003/Geek-Room-AI-ML-Department/assets/119743101/5aba7954-a3dd-4d01-bb8f-19caa0f02af0?raw=true" width="80">
 
 This repository is a collaborative space for our amazing team to work together on exciting AI and Machine Learning projects. Start your journey into the world of AI, for golden opportunities and research await here. Our goal is to learn, grow, and innovate together while having fun in the process.
-* <b><i>[Do read "How to submit your projects" section at the last]</i><b>
+
+  <b><i>
+  ``` diff
+  - [Do read "How to submit your projects" section at the last]
+  ```
+  </i><b>
 
 ## Technology Bucket:
 <div>
