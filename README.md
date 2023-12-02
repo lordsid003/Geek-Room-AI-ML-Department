@@ -1,6 +1,15 @@
 # Geek-Room Artificial Intelligence Department 
 * <i><b>Department Heads:</b> [Siddharth Verma](https://github.com/lordsid003), [Arnav Kohli](https://github.com/THEGAMECHANGER416)</i>
 
+
+## PROJECT OF THE MONTH 🎁:  
+  
+⭐ [Anika Daga](https://github.com/Ani3103), [Pankaj Kumar](https://github.com/pankajjaat2004): [GROUP 1 PROJECT](https://github.com/lordsid003/Geek-Room-AI-ML-Department/tree/main/Projects/Month%201%20Projects/GROUP%201)
+<br>
+
+⭐[Aryan Gupta](https://github.com/ENGARY): [GROUP 8 PROJECT](https://github.com/lordsid003/Geek-Room-AI-ML-Department/tree/main/Projects/Month%201%20Projects/GROUP%208)
+<br>
+
 <img src="https://github.com/lordsid003/Geek-Room-AI-ML-Department/assets/119743101/5aba7954-a3dd-4d01-bb8f-19caa0f02af0?raw=true" width="80">
 
 This repository is a collaborative space for our amazing team to work together on exciting AI and Machine Learning projects. Start your journey into the world of AI, for golden opportunities and research await here. Our goal is to learn, grow, and innovate together while having fun in the process.
